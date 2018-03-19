@@ -16,7 +16,7 @@
   
   <body>
     
-	<div style="width:100%;height:100%;background-image: url(backgroundimage.jpg);background-repeat: no-repeat;background-size: 100% 95%;">
+	<div style="width:100%;height:100%;background-image: url(https://pan.baidu.com/s/15GiUp_0VDc0MR6CtsQKfng);background-repeat: no-repeat;background-size: 100% 95%;">
 	  <div style="text-align:center;height:200px;width:630px;border: 2px solid #eee; position: absolute;left: 7%;top: 200px;background-color:rgba(236, 137, 137, 0.39);">
 		<h2 id="day">今天是我们的第天</h2>
 		<h2 id="timestring">xxx年 xx月 xx日 23小时 56 分</h2>
